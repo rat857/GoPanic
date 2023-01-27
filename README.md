@@ -1,5 +1,5 @@
 # GoPanic
-golang基于yaml的漏扫，&lt;神速>
+golang基于yaml的漏洞验证框架，&lt;神速>
 
 用golang写的第一个项目，食用方法稍后补充，还有很多bug,会更新维护
 
