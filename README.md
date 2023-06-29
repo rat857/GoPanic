@@ -1,5 +1,5 @@
 # 项目暂停，将重构，改名为AtomsPanic，目前正在测试
-![https://github.com/rat857/GoPanic/blob/main/pic/AtomsPanic.png?raw=true]
+![](https://github.com/rat857/GoPanic/blob/main/pic/AtomsPanic.png?raw=true)
 # GoPanic
 golang基于yaml的漏洞验证框架，&lt;神速>
 
