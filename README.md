@@ -1,3 +1,4 @@
+# 项目暂停，将重构，改名为AtomsPanic
 # GoPanic
 golang基于yaml的漏洞验证框架，&lt;神速>
 
